@@ -1,0 +1,6 @@
+/**
+ * ada
+ */
+public class ada {
+
+}
